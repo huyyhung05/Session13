@@ -1,0 +1,12 @@
+2026-10-13 00:00:01 INFO server-started
+2026-10-13 00:02:15 INFO tram-001 heartbeat-ok
+2026-10-13 00:04:21 WARNING tram-014 ram-usage-82-percent
+2026-10-13 00:05:12 ERROR 404 tram-027 api-device-not-found
+2026-10-13 00:07:45 CRITICAL central-server connection-lost
+2026-10-13 00:09:03 TIMEOUT tram-058 response-time-exceeded
+2026-10-13 00:12:10 INFO tram-058 reconnected
+2026-10-13 00:18:55 ERROR tram-031 storage-write-failed
+2026-10-13 00:21:07 WARNING backup-node disk-usage-78-percent
+2026-10-13 00:25:30 CRITICAL tram-077 sensor-hub-offline
+2026-10-13 00:29:14 INFO health-check-passed
+2026-10-13 00:31:41 TIMEOUT tram-088 gateway-no-response

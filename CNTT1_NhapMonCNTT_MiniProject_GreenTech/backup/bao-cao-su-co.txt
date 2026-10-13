@@ -1,0 +1,7 @@
+===== BAO CAO SU CO HE THONG - DU LIEU MAU =====
+2026-10-13 00:05:12 ERROR 404 tram-027 api-device-not-found
+2026-10-13 00:07:45 CRITICAL central-server connection-lost
+2026-10-13 00:09:03 TIMEOUT tram-058 response-time-exceeded
+2026-10-13 00:18:55 ERROR tram-031 storage-write-failed
+2026-10-13 00:25:30 CRITICAL tram-077 sensor-hub-offline
+2026-10-13 00:31:41 TIMEOUT tram-088 gateway-no-response

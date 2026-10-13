@@ -1,0 +1,6 @@
+REM Tao cay thu muc bang 1 dong:
+mkdir CNTT1_NhapMonCNTT_MiniProject_GreenTech\docs CNTT1_NhapMonCNTT_MiniProject_GreenTech\scripts CNTT1_NhapMonCNTT_MiniProject_GreenTech\data CNTT1_NhapMonCNTT_MiniProject_GreenTech\backup
+
+REM Sau khi cd vao repository, tao file cau hinh bang Relative Path:
+echo GT_DB_PASSWORD=demo-password> .env
+attrib +h .env
